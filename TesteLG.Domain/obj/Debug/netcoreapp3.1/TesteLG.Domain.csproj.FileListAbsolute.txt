@@ -1,0 +1,9 @@
+D:\PROJETOS\TesteLG\TesteLG\TesteLG.Domain\bin\Debug\netcoreapp3.1\TesteLG.Domain.deps.json
+D:\PROJETOS\TesteLG\TesteLG\TesteLG.Domain\bin\Debug\netcoreapp3.1\TesteLG.Domain.dll
+D:\PROJETOS\TesteLG\TesteLG\TesteLG.Domain\bin\Debug\netcoreapp3.1\TesteLG.Domain.pdb
+D:\PROJETOS\TesteLG\TesteLG\TesteLG.Domain\obj\Debug\netcoreapp3.1\TesteLG.Domain.csprojAssemblyReference.cache
+D:\PROJETOS\TesteLG\TesteLG\TesteLG.Domain\obj\Debug\netcoreapp3.1\TesteLG.Domain.AssemblyInfoInputs.cache
+D:\PROJETOS\TesteLG\TesteLG\TesteLG.Domain\obj\Debug\netcoreapp3.1\TesteLG.Domain.AssemblyInfo.cs
+D:\PROJETOS\TesteLG\TesteLG\TesteLG.Domain\obj\Debug\netcoreapp3.1\TesteLG.Domain.csproj.CoreCompileInputs.cache
+D:\PROJETOS\TesteLG\TesteLG\TesteLG.Domain\obj\Debug\netcoreapp3.1\TesteLG.Domain.dll
+D:\PROJETOS\TesteLG\TesteLG\TesteLG.Domain\obj\Debug\netcoreapp3.1\TesteLG.Domain.pdb
